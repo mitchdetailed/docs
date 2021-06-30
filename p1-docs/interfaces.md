@@ -50,6 +50,44 @@ The following table shows what the function for each pin:
 | 25 | GND | Ground |
 | 26 | GND | Ground |
 
+
+## Add 24 Pin J1 and 16 Pin J2 Connection information here... 
+
+Refer to the following diagram for pin 1 location. Note that the **ODD** pins are on the **TOP** row and the **EVEN** pins are on the **BOTTOM** row.
+
+// Insert picture of 24 pin connector here. //
+
+The following table shows what the function for each pin:
+
+| Pin | Function | Notes |
+| :--- | :--- | :--- |
+| 1 | ? | ?? |
+| 2 | ? | ?? |
+| 3 | ? | ?? |
+| 4 | ? | ?? |
+| 5 | ? | ?? |
+| 6 | ? | ?? |
+| 7 | ? | ?? |
+| 8 | ? | ?? |
+| 9 | ? | ?? |
+| 10 | ? | ?? |
+| 11 | ? | ?? |
+| 12 | ? | ?? |
+| 13 | ? | ?? |
+| 14 | ? | ?? |
+| 15 | ? | ?? |
+| 16 | ? | ?? |
+| 17 | ? | ?? |
+| 18 | ? | ?? |
+| 19 | ? | ?? |
+| 20 | ? | ?? |
+| 21 | ? | ?? |
+| 22 | ? | ?? |
+| 23 | ? | ?? |
+| 24 | ? | ?? |
+
+//  Do the Same for j1962M connector // 
+
 ## CAN
 
 [Controller Area Network](https://en.wikipedia.org/wiki/CAN_bus)
